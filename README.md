@@ -1,3 +1,3 @@
 # pruebagit
 Pruebas con GitHub
-Priemera modificación
+Primera modificación
